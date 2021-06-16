@@ -1,4 +1,4 @@
-# Science-Expo-2018-AMOR-
+# -AMOR-
 
 
 Alarm Motor
